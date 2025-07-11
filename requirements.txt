@@ -12,3 +12,4 @@ future
 click
 colorama
 stringcase
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
